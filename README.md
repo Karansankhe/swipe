@@ -4,6 +4,8 @@ This project is a web-based application built with Streamlit (frontend) and Flas
 
 
 
+
+
 **Features**
 
 1)**PDF Upload:** Users can upload PDF files directly from the web interface.
@@ -13,6 +15,9 @@ This project is a web-based application built with Streamlit (frontend) and Flas
 3)**Content Analysis:** The extracted text is processed by the Google Gemini API to extract customer details, product details, and total amounts.
 
 4)**Response Display:** The extracted information is displayed on the frontend for the user.
+
+
+
 
 
 
