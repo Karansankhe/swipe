@@ -61,6 +61,4 @@ def process_pdf():
     except Exception as e:
         return jsonify({"error": str(e)}), 500
 
-if __name__ == '__main__':
-    os.makedirs("temp", exist_ok=True)
-    app.run(host='0.0.0.0', port=5000)
+# Note: We will use Gunicorn to run the application on Render
