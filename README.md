@@ -5,6 +5,7 @@ This project is a web-based application built with Streamlit (frontend) and Flas
 
 
 **Features**
+
 1)**PDF Upload:** Users can upload PDF files directly from the web interface.
 
 2)**Text Extraction:** The backend extracts text from the uploaded PDF using PyPDF2.
