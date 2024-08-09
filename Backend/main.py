@@ -61,4 +61,3 @@ def process_pdf():
     except Exception as e:
         return jsonify({"error": str(e)}), 500
 
-# Note: We will use Gunicorn to run the application on Render
