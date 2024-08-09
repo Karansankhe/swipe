@@ -4,7 +4,7 @@ import requests
 # Initialize our Streamlit app
 st.set_page_config(page_title="Gemini PDF Demo")
 
-st.header("Gemini Application")
+st.header("Details Extract App")
 uploaded_file = st.file_uploader("Choose a PDF...", type=["pdf"])
 
 submit = st.button("Extract and Analyze")
