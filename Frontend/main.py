@@ -27,4 +27,5 @@ if submit and uploaded_file is not None:
             st.error(f"Error from server: {response.json().get('error')}")
 
     except Exception as e:
+
         st.error(f"Error processing the PDF: {str(e)}")
