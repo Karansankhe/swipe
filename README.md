@@ -1,5 +1,5 @@
 **Gemini PDF Extraction Tool**
-This project is a web-based application built with Streamlit (frontend) and Flask (backend) that uses Google's Gemini API to extract specific information from PDF documents, such as customer details, product details, and the total amount. The application is designed to be simple and easy to use, providing a straightforward way to upload PDF files and receive structured data in return.
+This project is a web-based application built with Streamlit (frontend) and Flask (backend) that uses Google's Gemini API to extract specific information from PDF documents, such as customer details, product details, and the total amount. The application is designed to be simple and easy to use, providing a straightforward way to upload PDF files and receive structured data in return..
 
 
 
